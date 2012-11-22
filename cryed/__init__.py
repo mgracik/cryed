@@ -21,4 +21,6 @@
 # Author(s):    Martin Gracik <martin@gracik.me>
 #
 
+__version__ = '1.0'
+
 from cryed import CryEd
