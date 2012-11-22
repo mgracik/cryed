@@ -8,9 +8,8 @@ setup(name='cryed',
       url='http://',
       download_url='http://',
       license='MIT',
-      package_dir = {'': 'src'},
       packages = ['cryed'],
-      scripts = ['src/bin/ccat',
-                 'src/bin/cedit',
-                 'src/bin/ppgen']
+      scripts = ['cryed/bin/ccat',
+                 'cryed/bin/cedit',
+                 'cryed/bin/ppgen']
       )
