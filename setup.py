@@ -11,7 +11,7 @@ setup(name='cryed',
       download_url='http://',
       license='MIT',
       packages = ['cryed'],
-      scripts = ['cryed/bin/ccat',
-                 'cryed/bin/cedit',
-                 'cryed/bin/ppgen']
+      scripts = ['bin/ccat',
+                 'bin/cedit',
+                 'bin/ppgen']
       )
